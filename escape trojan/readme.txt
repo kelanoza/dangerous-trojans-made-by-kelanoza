@@ -1,0 +1,1 @@
+Attention, do not run this trojan on your own system, only run it on a virtual machine or VMware! creator: kelanoza
